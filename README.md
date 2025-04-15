@@ -11,14 +11,14 @@ The project consists of two main components:
 
 ## Screenshots
 
-### Feed
-![Feed Page](./Question_2/public/feed.jpg)
-
 ### Top Users
-![Top Users Page](./Question_2/public/topusers.png)
+![Top Users Page](https://raw.githubusercontent.com/AgarwalYash14/2210990973/master/ScreenShots/topusers.png)
 
 ### Trending Posts
-![Trending Posts Page](./Question_2/public/trending.jpg)
+![Trending Posts Page](https://raw.githubusercontent.com/AgarwalYash14/2210990973/master/ScreenShots/trending.jpg)
+
+### Feed
+![Feed Page](https://raw.githubusercontent.com/AgarwalYash14/2210990973/master/ScreenShots/feed.jpg)
 
 ## Project Requirements
 
