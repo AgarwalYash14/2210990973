@@ -9,6 +9,17 @@ The project consists of two main components:
 1. **Backend Server (Question_1)**: An Express.js server that fetches data from an external API, processes it, and serves it to the frontend.
 2. **Frontend Dashboard (Question_2)**: A React-based dashboard built with TypeScript and Tailwind CSS that visualizes the social media data.
 
+## Screenshots
+
+### Feed
+![Feed Page](./Question_2/public/feed.jpg)
+
+### Top Users
+![Top Users Page](./Question_2/public/topusers.png)
+
+### Trending Posts
+![Trending Posts Page](./Question_2/public/trending.jpg)
+
 ## Project Requirements
 
 ### Frontend (Question_2)
